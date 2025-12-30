@@ -1,4 +1,4 @@
-# SpicyDragonFruit
+# juliana-albertyn
 
 ## Hi there, I'm Juliana! 👋
 
