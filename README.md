@@ -2,11 +2,9 @@
 
 ## Hi there, I'm Juliana! 👋
 
-I'm a developer with more than 30 years experience, last 25 years with Delphi.
-
-I am passionate about writing clear, concise and reusable code. 
-
-Currently studying using the FreeCodeCamp Full-Stack Developer curriculum, learning to use Git and GitHub, and brushing up on my SQL Server skills.
+Senior developer with 20+ years in Delphi & SQL Server, modernizing legacy systems and optimizing performance. 
+Exploring Python and building clean, maintainable code for real-world projects. 
+Passionate about turning complex systems into efficient, reliable solutions.
 
 
 
